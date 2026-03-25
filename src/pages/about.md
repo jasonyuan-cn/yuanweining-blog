@@ -1,37 +1,50 @@
+# 关于我
+
+我是**袁维宁**，重庆，数据科学家。
+
+日常工作是给一家台资制造业公司做NPI系统架构和CIM预测模型。
+业余时间在做一件我老婆觉得靠谱、我自己还没完全想清楚的事——**JINYI.ai**，
+一个试图用算法解决"买不到合身衣服"这个问题的项目。
+
+这个想法的起点很简单：陪她逛街，她试了很多件裙子，没有一件合身。
+她只有一个要求：合身，显瘦。
+我当时想，这是一个数据问题。
+
+我现在仍然这么想，但我开始知道这个问题比我最初以为的要难得多。
+
 ---
-layout: ../layouts/AboutLayout.astro
-title: "About"
+
+## 我是什么样的人
+
+效率很高，耐心很差。
+在熟悉的领域里有点高傲，在陌生的领域里会用"第一性原理"这个词
+来掩盖自己不想承认的害怕。
+
+这个博客的第一篇文章，就是关于这件事的。
+
+我不适合给人打工，但我现在还在打工。
+我想做一个真正属于自己的产品，但我还在摸索那条路长什么样。
+我希望有一天能实现普通的财务自由，但我同时也想做一些
+至少对我身边的人有真实意义的事。
+
+这些想法有时候互相矛盾。我正在学习跟这种矛盾共存。
+
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+## 这个博客写什么
 
-![Astro Paper](public/astropaper-og.jpg)
+记录JINYI.ai从0到1的过程。
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+不是成功学，不是方法论，不是个人品牌。
+是一个数据科学家闯入完全陌生的行业时，
+真实发生的事情——包括那些被现实打脸的时刻。
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+我会持续写下去。如果某篇对你有用，那是额外的收获。
 
-## Features
+---
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+**技术栈：** Python · 数据科学 · NPI系统 · Docker · Home Lab · Claude
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+**当前状态：** JINYI.ai MVP阶段 · 本周末约了一个老裁缝 · 带着录音笔去
 
-and so much more.
-
-## Show your support
-
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+*上次更新：2026.03.25*
