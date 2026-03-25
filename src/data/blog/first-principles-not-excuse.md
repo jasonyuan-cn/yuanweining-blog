@@ -1,6 +1,6 @@
 ---
 author: 袁维宁
-pubDatetime: 2026-03-25T10:00:00Z
+pubDatetime: 2026-03-24T10:00:00Z
 title: 第一性原理不是跳过领域知识的借口
 slug: first-principles-not-excuse
 featured: true
